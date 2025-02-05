@@ -1,0 +1,6 @@
+base = {
+  workspace = shriban_PLSDevPythonScripts; 
+  versionSet = live;
+  dependencyModel = brazil;
+};
+packages = { PLSDevPythonScripts-1.0 = .; };

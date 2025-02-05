@@ -1,0 +1,2 @@
+base = {workspace = shriban_PLSDevPythonScripts; };
+packages = { };
